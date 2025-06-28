@@ -10,3 +10,7 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - Find Largest Element 
 - Find Second Largest Element 
 
+✅ Day 2:
+- Remove Duplicates from Sorted Array
+- Rotate Array by K Positions
+- Move Zeroes
