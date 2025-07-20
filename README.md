@@ -25,3 +25,8 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - Two Sum
 - Two Sum II - Input Array Is Sorted
 - Matrix Diagonal Sum
+
+✅ Day 5:
+- Rotate Image
+- Sort Colors
+- Max Consecutive Ones
