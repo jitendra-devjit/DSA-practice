@@ -36,3 +36,9 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - Longest Subarray With Sum K  
 - Maximum Subarray Sum
 - Longest Consecutive Sequence
+
+✅ Day 7:
+- Rearrange Array Elements by Sign
+- Leaders in an Array
+- Union of two arrays
+- Kadane’s Algorithm
