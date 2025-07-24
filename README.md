@@ -30,3 +30,9 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - Rotate Image
 - Sort Colors
 - Max Consecutive Ones
+
+✅ Day 6:
+- Subarray Sum Equals K
+- Longest Subarray With Sum K  
+- Maximum Subarray Sum
+- Longest Consecutive Sequence
