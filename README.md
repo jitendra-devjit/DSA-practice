@@ -42,3 +42,8 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - Leaders in an Array
 - Union of two arrays
 - Kadane’s Algorithm
+
+✅ Day 8:
+- Majority Element
+- Majority Element II
+- 3 Sum
