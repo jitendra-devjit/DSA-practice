@@ -47,3 +47,9 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - Majority Element
 - Majority Element II
 - 3 Sum
+
+✅ Day 7:
+- Most Frequent Even Element
+- 4Sum
+- Maximum Product Subarray
+- Merge Intervals
