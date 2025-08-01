@@ -53,3 +53,15 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - 4Sum
 - Maximum Product Subarray
 - Merge Intervals
+
+✅ Day 10:
+- Binary Search
+- 
+- 
+- 
+
+✅ Day 11:
+- 
+- 
+- 
+- 
