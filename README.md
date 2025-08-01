@@ -56,12 +56,12 @@ Daily Data Structures and Algorithms practice for placement preparation.
 
 ✅ Day 10:
 - Binary Search
-- 
-- 
-- 
+- Lower Bound
+- Upper Bound
+- Search Insert Position
 
 ✅ Day 11:
-- 
-- 
-- 
-- 
+- get Floor And Ceil
+- first And Last Position of element in an array
+- Number_of_occurrence
+- Search in rotated sorted array
