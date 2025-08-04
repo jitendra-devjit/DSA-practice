@@ -65,3 +65,10 @@ Daily Data Structures and Algorithms practice for placement preparation.
 - first And Last Position of element in an array
 - Number_of_occurrence
 - Search in rotated sorted array
+
+✅ Day 12:
+- Search in Rotated Sorted Array II
+- Find Minimum in Rotated Sorted Array
+- Find Kth Rotation
+- Single Element in a Sorted Array
+- Find Peak Element
